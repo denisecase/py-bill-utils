@@ -1,0 +1,6 @@
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/clean_bill.exe
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/extract_amendments.exe
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/extract_headings.exe
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/extract_money.exe
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/filter_keywords.exe
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/split_sections.exe

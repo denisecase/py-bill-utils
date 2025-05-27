@@ -1,0 +1,110 @@
+2025-05-27 10:51:14.834 | INFO     | utils_logger:<module>:29 - Logging to file: logs\py_log.log
+2025-05-27 10:51:14.835 | ERROR    | __main__:run_eda:80 - No output folder found: C:\Users\edaci\Documents\py-bill-utils\scripts\output
+2025-05-27 10:52:41.520 | INFO     | utils_logger:<module>:29 - Logging to file: logs\py_log.log
+2025-05-27 10:52:41.520 | INFO     | __main__:<module>:23 - DIR_ROOT=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/scripts')
+2025-05-27 10:52:41.521 | INFO     | __main__:<module>:24 - DIR_SCRIPTS=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/scripts/scripts')
+2025-05-27 10:52:41.521 | INFO     | __main__:<module>:25 - DIR_DATA=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/scripts/data')
+2025-05-27 10:52:41.522 | INFO     | __main__:<module>:26 - DIR_OUTPUT=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/scripts/output')
+2025-05-27 10:52:41.522 | ERROR    | __main__:run_eda:85 - No output folder found: C:\Users\edaci\Documents\py-bill-utils\scripts\output
+2025-05-27 10:53:30.590 | INFO     | utils_logger:<module>:29 - Logging to file: logs\py_log.log
+2025-05-27 10:53:30.590 | INFO     | __main__:<module>:23 - DIR_ROOT=WindowsPath('C:/Users/edaci/Documents/py-bill-utils')
+2025-05-27 10:53:30.590 | INFO     | __main__:<module>:24 - DIR_SCRIPTS=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/scripts')
+2025-05-27 10:53:30.590 | INFO     | __main__:<module>:25 - DIR_DATA=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/data')
+2025-05-27 10:53:30.590 | INFO     | __main__:<module>:26 - DIR_OUTPUT=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/output')
+2025-05-27 10:53:30.591 | INFO     | __main__:run_eda:94 - 
+📄 Summary for bill: 2025-hconres0014
+2025-05-27 10:53:30.591 | INFO     | __main__:run_eda:98 - Source Data:
+2025-05-27 10:53:30.615 | INFO     | __main__:summarize_csv_file:74 -  amendments.csv - 2 rows, 3 columns
+2025-05-27 10:53:30.615 | INFO     | __main__:run_eda:101 - Generated Output:
+2025-05-27 10:53:30.626 | INFO     | __main__:summarize_text_file:64 -  keyword_hits.txt - 66 lines
+2025-05-27 10:53:30.635 | INFO     | __main__:summarize_text_file:64 -  headings.txt - 59 lines
+2025-05-27 10:53:30.642 | INFO     | __main__:summarize_csv_file:74 -  money_lines.csv - 570 rows, 2 columns
+2025-05-27 10:53:30.642 | INFO     | __main__:run_eda:106 - ----------------------------------------
+2025-05-27 10:53:49.954 | INFO     | utils_logger:<module>:29 - Logging to file: logs\py_log.log
+2025-05-27 10:53:49.954 | INFO     | __main__:<module>:23 - DIR_ROOT=WindowsPath('C:/Users/edaci/Documents/py-bill-utils')
+2025-05-27 10:53:49.954 | INFO     | __main__:<module>:24 - DIR_SCRIPTS=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/scripts')
+2025-05-27 10:53:49.954 | INFO     | __main__:<module>:25 - DIR_DATA=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/data')
+2025-05-27 10:53:49.954 | INFO     | __main__:<module>:26 - DIR_OUTPUT=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/output')
+2025-05-27 10:53:49.955 | INFO     | __main__:run_eda:94 - 
+📄 Summary for bill: 2025-hconres0014
+2025-05-27 10:53:49.955 | INFO     | __main__:run_eda:98 - Source Data:
+2025-05-27 10:53:49.969 | INFO     | __main__:summarize_csv_file:74 -  amendments.csv - 2 rows, 3 columns
+2025-05-27 10:53:49.970 | INFO     | __main__:run_eda:101 - Generated Output:
+2025-05-27 10:53:49.970 | INFO     | __main__:summarize_text_file:64 -  keyword_hits.txt - 66 lines
+2025-05-27 10:53:49.970 | INFO     | __main__:summarize_text_file:64 -  headings.txt - 59 lines
+2025-05-27 10:53:49.972 | INFO     | __main__:summarize_csv_file:74 -  money_lines.csv - 570 rows, 2 columns
+2025-05-27 10:53:49.972 | INFO     | __main__:run_eda:106 - ----------------------------------------
+2025-05-27 10:54:32.536 | INFO     | utils_logger:<module>:29 - Logging to file: logs\py_log.log
+2025-05-27 10:54:32.536 | INFO     | __main__:<module>:23 - DIR_ROOT=WindowsPath('C:/Users/edaci/Documents/py-bill-utils')
+2025-05-27 10:54:32.536 | INFO     | __main__:<module>:24 - DIR_SCRIPTS=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/scripts')
+2025-05-27 10:54:32.536 | INFO     | __main__:<module>:25 - DIR_DATA=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/data')
+2025-05-27 10:54:32.537 | INFO     | __main__:<module>:26 - DIR_OUTPUT=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/output')
+2025-05-27 10:54:32.537 | INFO     | __main__:run_eda:94 - 
+📄 Summary for bill: 2025-hconres0014
+2025-05-27 10:54:32.537 | INFO     | __main__:run_eda:98 - Source Data:
+2025-05-27 10:54:32.552 | INFO     | __main__:summarize_csv_file:74 -  amendments.csv - 2 rows, 3 columns
+2025-05-27 10:54:32.552 | INFO     | __main__:run_eda:101 - Generated Output:
+2025-05-27 10:54:32.552 | INFO     | __main__:summarize_text_file:64 -  keyword_hits.txt - 66 lines
+2025-05-27 10:54:32.553 | INFO     | __main__:summarize_text_file:64 -  headings.txt - 59 lines
+2025-05-27 10:54:32.555 | INFO     | __main__:summarize_csv_file:74 -  money_lines.csv - 570 rows, 2 columns
+2025-05-27 10:54:32.555 | INFO     | __main__:run_eda:106 - ----------------------------------------
+2025-05-27 11:00:42.681 | INFO     | utils_logger:<module>:29 - Logging to file: logs\py_log.log
+2025-05-27 11:00:42.681 | INFO     | __main__:<module>:20 - DIR_ROOT=WindowsPath('C:/Users/edaci/Documents/py-bill-utils')
+2025-05-27 11:00:42.681 | INFO     | __main__:<module>:21 - DIR_SCRIPTS=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/scripts')
+2025-05-27 11:00:42.681 | INFO     | __main__:<module>:22 - DIR_DATA=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/data')
+2025-05-27 11:00:42.681 | INFO     | __main__:<module>:23 - DIR_OUTPUT=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/output')
+2025-05-27 11:00:42.682 | INFO     | __main__:run_eda:120 - 
+📄 Summary for bill: 2025-hconres0014
+2025-05-27 11:00:42.682 | INFO     | __main__:run_eda:124 - Source Data:
+2025-05-27 11:00:42.706 | INFO     | __main__:summarize_csv_file:99 -  amendments.csv - 1931 rows, 3 columns
+2025-05-27 11:00:42.706 | WARNING  | __main__:summarize_csv_file:101 -  amendments.csv - Skipped 25893 malformed line(s)
+2025-05-27 11:00:42.706 | INFO     | __main__:run_eda:127 - Generated Output:
+2025-05-27 11:00:42.707 | INFO     | __main__:summarize_text_file:63 -  keyword_hits.txt - 66 lines
+2025-05-27 11:00:42.707 | INFO     | __main__:summarize_text_file:63 -  headings.txt - 59 lines
+2025-05-27 11:00:42.709 | INFO     | __main__:summarize_csv_file:99 -  money_lines.csv - 570 rows, 2 columns
+2025-05-27 11:00:42.709 | INFO     | __main__:run_eda:132 - ----------------------------------------
+2025-05-27 11:00:53.956 | INFO     | utils_logger:<module>:29 - Logging to file: logs\py_log.log
+2025-05-27 11:00:53.956 | INFO     | __main__:<module>:20 - DIR_ROOT=WindowsPath('C:/Users/edaci/Documents/py-bill-utils')
+2025-05-27 11:00:53.956 | INFO     | __main__:<module>:21 - DIR_SCRIPTS=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/scripts')
+2025-05-27 11:00:53.956 | INFO     | __main__:<module>:22 - DIR_DATA=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/data')
+2025-05-27 11:00:53.956 | INFO     | __main__:<module>:23 - DIR_OUTPUT=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/output')
+2025-05-27 11:00:53.957 | INFO     | __main__:run_eda:120 - 
+📄 Summary for bill: 2025-hconres0014
+2025-05-27 11:00:53.957 | INFO     | __main__:run_eda:124 - Source Data:
+2025-05-27 11:00:53.981 | INFO     | __main__:summarize_csv_file:99 -  amendments.csv - 1931 rows, 3 columns
+2025-05-27 11:00:53.981 | WARNING  | __main__:summarize_csv_file:101 -  amendments.csv - Skipped 25893 malformed line(s)
+2025-05-27 11:00:53.982 | INFO     | __main__:run_eda:127 - Generated Output:
+2025-05-27 11:00:53.982 | INFO     | __main__:summarize_text_file:63 -  keyword_hits.txt - 66 lines
+2025-05-27 11:00:53.982 | INFO     | __main__:summarize_text_file:63 -  headings.txt - 59 lines
+2025-05-27 11:00:53.984 | INFO     | __main__:summarize_csv_file:99 -  money_lines.csv - 570 rows, 2 columns
+2025-05-27 11:00:53.984 | INFO     | __main__:run_eda:132 - ----------------------------------------
+2025-05-27 11:02:43.257 | INFO     | utils_logger:<module>:29 - Logging to file: logs\py_log.log
+2025-05-27 11:02:43.257 | INFO     | __main__:<module>:20 - DIR_ROOT=WindowsPath('C:/Users/edaci/Documents/py-bill-utils')
+2025-05-27 11:02:43.257 | INFO     | __main__:<module>:21 - DIR_SCRIPTS=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/scripts')
+2025-05-27 11:02:43.257 | INFO     | __main__:<module>:22 - DIR_DATA=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/data')
+2025-05-27 11:02:43.257 | INFO     | __main__:<module>:23 - DIR_OUTPUT=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/output')
+2025-05-27 11:02:43.257 | INFO     | __main__:run_eda:120 - 
+📄 Summary for bill: 2025-hconres0014
+2025-05-27 11:02:43.258 | INFO     | __main__:run_eda:124 - Source Data:
+2025-05-27 11:02:43.282 | INFO     | __main__:summarize_csv_file:99 -  amendments.csv - 1931 rows, 3 columns
+2025-05-27 11:02:43.282 | WARNING  | __main__:summarize_csv_file:101 -  amendments.csv - Skipped 25893 malformed line(s)
+2025-05-27 11:02:43.282 | INFO     | __main__:run_eda:127 - Generated Output:
+2025-05-27 11:02:43.283 | INFO     | __main__:summarize_text_file:63 - 	keyword_hits.txt - 66 lines
+2025-05-27 11:02:43.283 | INFO     | __main__:summarize_text_file:63 - 	headings.txt - 59 lines
+2025-05-27 11:02:43.285 | INFO     | __main__:summarize_csv_file:99 -  money_lines.csv - 570 rows, 2 columns
+2025-05-27 11:02:43.285 | INFO     | __main__:run_eda:132 - ----------------------------------------
+2025-05-27 11:02:59.761 | INFO     | utils_logger:<module>:29 - Logging to file: logs\py_log.log
+2025-05-27 11:02:59.761 | INFO     | __main__:<module>:20 - DIR_ROOT=WindowsPath('C:/Users/edaci/Documents/py-bill-utils')
+2025-05-27 11:02:59.761 | INFO     | __main__:<module>:21 - DIR_SCRIPTS=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/scripts')
+2025-05-27 11:02:59.761 | INFO     | __main__:<module>:22 - DIR_DATA=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/data')
+2025-05-27 11:02:59.761 | INFO     | __main__:<module>:23 - DIR_OUTPUT=WindowsPath('C:/Users/edaci/Documents/py-bill-utils/output')
+2025-05-27 11:02:59.761 | INFO     | __main__:run_eda:120 - 
+📄 Summary for bill: 2025-hconres0014
+2025-05-27 11:02:59.762 | INFO     | __main__:run_eda:124 - Source Data:
+2025-05-27 11:02:59.787 | INFO     | __main__:summarize_csv_file:99 -  amendments.csv - 1931 rows, 3 columns
+2025-05-27 11:02:59.787 | WARNING  | __main__:summarize_csv_file:101 -  amendments.csv - Skipped 25893 malformed line(s)
+2025-05-27 11:02:59.787 | INFO     | __main__:run_eda:127 - Generated Output:
+2025-05-27 11:02:59.788 | INFO     | __main__:summarize_text_file:63 - keyword_hits.txt - 66 lines
+2025-05-27 11:02:59.788 | INFO     | __main__:summarize_text_file:63 - headings.txt - 59 lines
+2025-05-27 11:02:59.790 | INFO     | __main__:summarize_csv_file:99 -  money_lines.csv - 570 rows, 2 columns
+2025-05-27 11:02:59.790 | INFO     | __main__:run_eda:132 - ----------------------------------------
