@@ -1,10 +1,10 @@
 # py-bill-utils
 
-[![Uses Zig](https://img.shields.io/badge/Built%20with-Zig-ec912d?logo=zig&logoColor=white&style=flat-square)](https://ziglang.org)
+[![Uses Zig](https://img.shields.io/badge/Uses-Zig-ec912d?logo=zig&logoColor=white&style=flat-square)](https://ziglang.org)
 
-> Python project for analyzing U.S. legislative bills. 
+> Python project for analyzing U.S. legislative bills. Incorporates high-performance Zig utils for speedy processing.
 
-## Uses Modern Fast Text Processing Tools
+## Zig-Enhanced Python Project
 
 This project integrates Zig executables for quickly analyzing U.S. legislative bills. 
 This project uses six Zig CLI tools:
