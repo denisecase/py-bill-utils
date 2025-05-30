@@ -1,6 +1,26 @@
-https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/clean_bill.exe
-https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/extract_amendments.exe
-https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/extract_headings.exe
-https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/extract_money.exe
-https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/filter_keywords.exe
-https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/split_sections.exe
+# requirements-zig.txt
+# This file lists Zig utilities and their download links for Windows x86_64.
+
+# clean_bill
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/clean_bill_file.exe
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/clean_bill_stream.exe
+
+# extract_amendments
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/extract_amendments_file.exe
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/extract_amendments_stream.exe
+
+# extract_headings
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/extract_headings_file.exe
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/extract_headings_stream.exe
+
+# extract_money
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/extract_money_file.exe
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/extract_money_stream.exe
+
+# filter_keywords
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/filter_keywords_file.exe
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/filter_keywords_stream.exe
+
+# split_sections
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/split_sections_file.exe
+https://github.com/denisecase/zig-bill-utils/raw/refs/heads/main/zig-out/x86_64-windows/split_sections_stream.exe

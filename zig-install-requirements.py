@@ -26,7 +26,7 @@ def install_zig_requirements(requirements_file='requirements-zig.txt'):
             # Extract subpath from URL after 'zig-out/'
             parts = url.split('/zig-out/')
             if len(parts) != 2:
-                print(f"Skipping malformed URL: {url}")
+                # print(f"Skipping malformed URL: {url}")
                 continue
 
             subpath = parts[1]  # e.g. x86_64-windows/clean_bill.exe
